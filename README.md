@@ -1,5 +1,7 @@
 # Data-Dictionary
-Licensing Systems Data Dictionary MySQL file
+Licensing Systems Data Dictionary 
+* MySQL file - master_data
+* Postgres File - 
 
 #Sources
 
