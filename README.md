@@ -1,6 +1,6 @@
 # Data-Dictionary
 Licensing Systems Data Dictionary 
-* MySQL file - master_data
+* MySQL file - master_data.sql
 * Postgres File - 
 
 #Sources
