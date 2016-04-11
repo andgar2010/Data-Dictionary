@@ -7,5 +7,5 @@ Licensing Systems Data Dictionary MySQL file
 * gear_type - FAO ftp://ftp.fao.org/docrep/fao/008/t0367t/t0367t01.pdf
 * vessel_type - FAO ftp://ftp.fao.org/fi/DOCUMENT/cwp/handbook/annex/annexLII.pdf
 * ports - UN https://www.portconnect.co.nz/Docs/PortConnectStandardUNLocationCodes(Global).xls
-* species - FAO ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip
+* species - FAO, information [http://www.fao.org/fishery/collection/asfis/en](http://www.fao.org/fishery/collection/asfis/en)... download [ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip](ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip)
 * storage_method - Unknown but common across all forms, suspect FAO is source TBC
