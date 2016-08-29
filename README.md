@@ -13,3 +13,4 @@ Listed below are the source of the standards as well as links to the actual data
 * ports - UN https://www.portconnect.co.nz/Docs/PortConnectStandardUNLocationCodes(Global).xls
 * species - FAO, information [http://www.fao.org/fishery/collection/asfis/en](http://www.fao.org/fishery/collection/asfis/en)... download [ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip](ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip)
 * storage_method - Unknown but common across all forms, suspect FAO is source TBC
+* authorised_fishing_area - Pacific Commission [SPC](http://www.spc.int/oceanfish/en/ofpsection/fisheries-monitoring/national-support/tuna-data-systems/228-data-types) 
