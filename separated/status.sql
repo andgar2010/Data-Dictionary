@@ -1,0 +1,9 @@
+INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (1, 'Pending', 'PEN', 'Y');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (2, 'Approved', 'APR', 'Y');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (3, 'Active', 'ACT', 'Y');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (4, 'Expired', 'EXP', 'Y');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (5, 'Revoked', 'REV', 'Y');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (6, 'Reinstated', 'RIN', 'Y');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (7, 'Rejected', 'REJ', 'Y');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (8, 'Investigating', 'INV', 'Y');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (9, 'Blacklisted', 'BLK', 'Y');
