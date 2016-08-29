@@ -20,3 +20,6 @@ Listed below are the source of the standards as well as links to the actual data
 SSH into server
 run the following at the command prompt to export data:
 > mysqldump -u root -p --databases master_data >master_data.sql
+
+OR for Postgres
+> pg_dump master_data > master_data.sql
