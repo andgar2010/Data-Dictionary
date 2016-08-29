@@ -14,3 +14,9 @@ Listed below are the source of the standards as well as links to the actual data
 * species - FAO, information [http://www.fao.org/fishery/collection/asfis/en](http://www.fao.org/fishery/collection/asfis/en)... download [ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip](ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip)
 * storage_method - Unknown but common across all forms, suspect FAO is source TBC
 * authorised_fishing_area - Pacific Commission (SPC) [http://www.spc.int/oceanfish/en/ofpsection/](http://www.spc.int/oceanfish/en/ofpsection/)
+
+#Instrcutions
+##Exporting Data
+SSH into server
+run the following at the command prompt to export data:
+> mysqldump -u root -p --databases master_data >master_data.sql
