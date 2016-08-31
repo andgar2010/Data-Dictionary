@@ -13,8 +13,8 @@ Listed below are the source of the standards as well as links to the actual data
 * ports - UN https://www.portconnect.co.nz/Docs/PortConnectStandardUNLocationCodes(Global).xls
 * species - FAO, information [http://www.fao.org/fishery/collection/asfis/en](http://www.fao.org/fishery/collection/asfis/en)... download [ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip](ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip)
 * storage_method - Unknown but common across all forms, suspect FAO is source TBC
-* authorised_fishing_area - Pacific Commission (SPC) [http://www.spc.int/oceanfish/en/ofpsection/](http://www.spc.int/oceanfish/en/ofpsection/)
-* units_of_measure - **THE UNIFIED CODE FOR UNITS OF MEASURE** [http://unitsofmeasure.org/ucum.html](http://unitsofmeasure.org/ucum.html) only taken a subset of units relevant for licensing. Specifically these are:
+* authorised_fishing_area - ***Pacific Commission (SPC)*** [http://www.spc.int/oceanfish/en/ofpsection/](http://www.spc.int/oceanfish/en/ofpsection/)
+* units_of_measure - ***THE UNIFIED CODE FOR UNITS OF MEASURE*** [http://unitsofmeasure.org/ucum.html](http://unitsofmeasure.org/ucum.html) only taken a subset of units relevant for licensing. Specifically these are:
 ```
 kilolitres            | volume    |	kl
 gallon                | volume    | gal
