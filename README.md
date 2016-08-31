@@ -21,7 +21,7 @@ gallon                | volume    | gal
 meter                 | length    | m
 foot                  | length    | ft
 kilowatt              | power     | kW
-horsepower            | poweer    | hp
+horsepower            | power    | hp
 pound per sqare inch  | pressure  | psi
 ```
 
