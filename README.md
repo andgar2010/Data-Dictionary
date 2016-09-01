@@ -1,9 +1,13 @@
 # Data-Dictionary
-Licensing Systems Data Dictionary 
-* MySQL file - master_data.sql
-* Postgres File - master_data_postgres.sql
 
-#Sources
+Licensing Systems Data Dictionary 
+* [Single MySQL file](https://github.com/ffagithub/Data-Dictionary/blob/master/master_data.sql) - contains structure and data
+* [Single Postgres file](https://github.com/ffagithub/Data-Dictionary/blob/master/master_data_postgres.sql) - contains structure and data
+* [CSV files](https://github.com/ffagithub/Data-Dictionary/tree/master/separated/csv) - contains CSV files that can be opened in Excel spreadsheet, first line is column heading
+* [MySQL files](https://github.com/ffagithub/Data-Dictionary/tree/master/separated/mysql)
+* [Postgres files](https://github.com/ffagithub/Data-Dictionary/tree/master/separated/postgres)
+
+# Sources
 
 Listed below are the source of the standards as well as links to the actual data sources
 
@@ -27,8 +31,8 @@ Specifically these are:
   pound per sqare inch  | pressure  | psi
 ```
 
-#Instrcutions
-##Exporting Data
+# Instrcutions
+## Exporting Data
 SSH into server
 run the following at the command prompt to export data:
 > mysqldump -u root -p --databases master_data >master_data.sql
