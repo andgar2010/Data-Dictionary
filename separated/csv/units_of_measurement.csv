@@ -1,0 +1,8 @@
+"id","name","kind_of_quantity","print","cs","ci","M","definition_value","definition_unit","IMS_name","IMS_code"
+"1","kilolitres","volume","kl","	kl","KL","yes","1 × 10^3","kl","kilolitres","kl"
+"2","gallon","volume ","gal","[gal_br]","[GAL_BR]","no","4.54609 ","l","gallons","gl"
+"3","meter","length","m","m","M","yes","","","Meters","m"
+"4","foot","length","ft","[ft_br]","[FT_BR]","no","12","[in_br]","Feet","ft"
+"5","kilowatt","power","kW","kW","KW","yes","1","J/s","Kilowatts","KW"
+"6","horsepower","power","hp","[HP]","[HP]","no","550","[ft_i].[lbf_av]/s","Horsepower","HP"
+"7","pound per sqare inch","pressure","psi","[psi]","[PSI] ","no","1","[lbf_av]/[in_i]2 ","PSI","PS"
