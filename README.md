@@ -4,8 +4,8 @@ Licensing Systems Data Dictionary
 * [Single MySQL file](https://github.com/ffagithub/Data-Dictionary/blob/master/master_data.sql) - contains structure and data
 * [Single Postgres file](https://github.com/ffagithub/Data-Dictionary/blob/master/master_data_postgres.sql) - contains structure and data
 * [CSV files](https://github.com/ffagithub/Data-Dictionary/tree/master/separated/csv) - contains CSV files that can be opened in Excel spreadsheet, first line is column heading
-* [MySQL files](https://github.com/ffagithub/Data-Dictionary/tree/master/separated/mysql)
-* [Postgres files](https://github.com/ffagithub/Data-Dictionary/tree/master/separated/postgres)
+* [MySQL files](https://github.com/ffagithub/Data-Dictionary/tree/master/separated/mysql) - contains MySql .sql files separated into individual files
+* [Postgres files](https://github.com/ffagithub/Data-Dictionary/tree/master/separated/postgres) - contains Postgres .sql files separated into individual files
 
 # Sources
 
