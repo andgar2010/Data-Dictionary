@@ -13,7 +13,7 @@ Licensing Systems Data Dictionary
 Listed below are the source of the standards as well as links to the actual data sources
 
 * **countries** - Country Codes Github Repo https://github.com/datasets/country-codes/blob/master/data/country-codes.csv. Original sources are from ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others , added fisheries specific information
-* **gear_type** - FAO, ftp://ftp.fao.org/docrep/fao/008/t0367t/t0367t01.pdf
+* **gear_type** - FAO,  International Standard Statistical Classification ftp://ftp.fao.org/docrep/fao/008/t0367t/t0367t01.pdf
 * **vessel_type** - FAO, Based on the International Standard Statistical Classification of Fishery Vessels by Vessel Types (ISSCFV), based on the type of gear used by the vessels, approved by the CWP in 1984 ftp://ftp.fao.org/fi/DOCUMENT/cwp/handbook/annex/annexLII.pdf
 * **ports** - UN, https://www.portconnect.co.nz/Docs/PortConnectStandardUNLocationCodes(Global).xls
 * **species** - FAO, information [http://www.fao.org/fishery/collection/asfis/en](http://www.fao.org/fishery/collection/asfis/en)... download [ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip](ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip)
