@@ -15,11 +15,13 @@ Listed below are the source of the standards as well as links to the actual data
 * **countries** - Country Codes Github Repo https://github.com/datasets/country-codes/blob/master/data/country-codes.csv. Original sources are from ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others , added fisheries specific information
 * **gear_type** - FAO,  International Standard Statistical Classification ftp://ftp.fao.org/docrep/fao/008/t0367t/t0367t01.pdf
 * **vessel_type** - FAO, Based on the International Standard Statistical Classification of Fishery Vessels by Vessel Types (ISSCFV), based on the type of gear used by the vessels, approved by the CWP in 1984 ftp://ftp.fao.org/fi/DOCUMENT/cwp/handbook/annex/annexLII.pdf
-* **ports** - UN, https://www.portconnect.co.nz/Docs/PortConnectStandardUNLocationCodes(Global).xls
+* **simplified_vessel_type** - Simplified Classification of Fishing Vessels By Vessel Types - ftp://ftp.fao.org/FI/DOCUMENT/cwp/handbook/annex/ANNEX_LIII.pdf
+* **ports** - UN, https://www.portconnect.co.nz/Docs/PortConnectStandardUNLocationCodes(Global).xls also see here (United Nations Code for Trade and Transport Locations (UN/LOCODE))[  http://www.unece.org/cefact/locode/]
 * **species** - FAO, information [http://www.fao.org/fishery/collection/asfis/en](http://www.fao.org/fishery/collection/asfis/en)... download [ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip](ftp://ftp.fao.org/FI/STAT/DATA/ASFIS_sp.zip)
 * **storage_method** - Unknown but common across all forms, suspect FAO is source TBC
 * **authorised_fishing_area** - Pacific Commission (SPC) [http://www.spc.int/oceanfish/en/ofpsection/](http://www.spc.int/oceanfish/en/ofpsection/)
 * **units_of_measure** - THE UNIFIED CODE FOR UNITS OF MEASURE [http://unitsofmeasure.org/ucum.html](http://unitsofmeasure.org/ucum.html) only taken a subset of units relevant for licensing. 
+
 
 Specifically these are:
 ```
