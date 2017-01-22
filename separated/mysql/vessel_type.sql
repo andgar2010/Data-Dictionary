@@ -7,7 +7,7 @@ INSERT INTO `vessel_type` (`ID`, `Code`, `Vessel Type`, `Vessel Sub Type`, `Stan
 INSERT INTO `vessel_type` (`ID`, `Code`, `Vessel Type`, `Vessel Sub Type`, `Standard Abbreviation`, `IMS_Friendly`, `Enabled`) VALUES (7, '01.0.6', ' TRAWLERS', ' Stern trawlers freezer ', 'TTF ', NULL, NULL);
 INSERT INTO `vessel_type` (`ID`, `Code`, `Vessel Type`, `Vessel Sub Type`, `Standard Abbreviation`, `IMS_Friendly`, `Enabled`) VALUES (8, '01.0.7', ' TRAWLERS', ' Stern trawlers factory ', 'TTP ', NULL, NULL);
 INSERT INTO `vessel_type` (`ID`, `Code`, `Vessel Type`, `Vessel Sub Type`, `Standard Abbreviation`, `IMS_Friendly`, `Enabled`) VALUES (9, '01.0.8', ' TRAWLERS', ' Outrigger trawlers ', 'TU ', NULL, NULL);
-INSERT INTO `vessel_type` (`ID`, `Code`, `Vessel Type`, `Vessel Sub Type`, `Standard Abbreviation`, `IMS_Friendly`, `Enabled`) VALUES (10, '01.0.9', ' TRAWLERS', ' Trawler nei ', 'TOX ', 'Trawlers', 'Y');
+INSERT INTO `vessel_type` (`ID`, `Code`, `Vessel Type`, `Vessel Sub Type`, `Standard Abbreviation`, `IMS_Friendly`, `Enabled`) VALUES (10, '01.0.9', ' TRAWLERS', ' Trawler nei ', 'TOX ', '', 'Y');
 INSERT INTO `vessel_type` (`ID`, `Code`, `Vessel Type`, `Vessel Sub Type`, `Standard Abbreviation`, `IMS_Friendly`, `Enabled`) VALUES (11, '02.0.0', ' SEINERS', ' SEINERS', 'SO ', NULL, NULL);
 INSERT INTO `vessel_type` (`ID`, `Code`, `Vessel Type`, `Vessel Sub Type`, `Standard Abbreviation`, `IMS_Friendly`, `Enabled`) VALUES (12, '02.0.1', ' SEINERS', ' Purse seiners ', 'SP ', 'Purse Seiners', 'Y');
 INSERT INTO `vessel_type` (`ID`, `Code`, `Vessel Type`, `Vessel Sub Type`, `Standard Abbreviation`, `IMS_Friendly`, `Enabled`) VALUES (13, '02.0.2', ' SEINERS', ' North American type ', 'SPA ', NULL, NULL);

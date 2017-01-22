@@ -1,0 +1,3 @@
+INSERT INTO `engine_power` (`id`, `name`, `kind_of_quantity`, `print`, `cs`, `ci`, `M`, `definition_value`, `definition_unit`, `IMS_name`, `IMS_code`) VALUES (5, 'Kilowatt', 'power', 'kW', 'kW', 'KW', 'yes', '1', 'J/s', 'Kilowatt', 'KW');
+INSERT INTO `engine_power` (`id`, `name`, `kind_of_quantity`, `print`, `cs`, `ci`, `M`, `definition_value`, `definition_unit`, `IMS_name`, `IMS_code`) VALUES (6, 'Horsepower', 'power', 'hp', '[HP]', '[HP]', 'no', '550', '[ft_i].[lbf_av]/s', 'Horsepower', 'HP');
+INSERT INTO `engine_power` (`id`, `name`, `kind_of_quantity`, `print`, `cs`, `ci`, `M`, `definition_value`, `definition_unit`, `IMS_name`, `IMS_code`) VALUES (7, 'Pound per Sqare Inch', 'pressure', 'psi', '[psi]', '[PSI] ', 'no', '1', '[lbf_av]/[in_i]2 ', 'PSI', 'PS');

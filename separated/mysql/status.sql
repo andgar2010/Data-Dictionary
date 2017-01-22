@@ -1,9 +1,9 @@
-INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (1, 'Pending', 'PEN', 'Y');
-INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (2, 'Approved', 'APR', 'Y');
-INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (3, 'Active', 'ACT', 'Y');
-INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (4, 'Expired', 'EXP', 'Y');
-INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (5, 'Revoked', 'REV', 'Y');
-INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (6, 'Reinstated', 'RIN', 'Y');
-INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (7, 'Rejected', 'REJ', 'Y');
-INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (8, 'Investigating', 'INV', 'Y');
-INSERT INTO `status` (`id`, `Status`, `Status_Code`, `Enabled`) VALUES (9, 'Blacklisted', 'BLK', 'Y');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`) VALUES (1, 'Pending', 'PEN');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`) VALUES (2, 'Approved', 'APR');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`) VALUES (4, 'Expired', 'EXP');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`) VALUES (5, 'Revoked', 'REV');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`) VALUES (6, 'Reinstated', 'RIN');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`) VALUES (7, 'Rejected', 'REJ');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`) VALUES (8, 'Investigating', 'INV');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`) VALUES (9, 'Blacklisted', 'BLK');
+INSERT INTO `status` (`id`, `Status`, `Status_Code`) VALUES (10, 'Print for Signing', 'SGN');

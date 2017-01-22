@@ -1,8 +1,14 @@
-"id","name","kind_of_quantity","print","cs","ci","M","definition_value","definition_unit","IMS_name","IMS_code"
-"1","kilolitres","volume","kl","	kl","KL","yes","1 Ã— 10^3","kl","kilolitres","kl"
-"2","gallon","volume ","gal","[gal_br]","[GAL_BR]","no","4.54609 ","l","gallons","gl"
-"3","meter","length","m","m","M","yes","","","Meters","m"
-"4","foot","length","ft","[ft_br]","[FT_BR]","no","12","[in_br]","Feet","ft"
-"5","kilowatt","power","kW","kW","KW","yes","1","J/s","Kilowatts","KW"
-"6","horsepower","power","hp","[HP]","[HP]","no","550","[ft_i].[lbf_av]/s","Horsepower","HP"
-"7","pound per sqare inch","pressure","psi","[psi]","[PSI] ","no","1","[lbf_av]/[in_i]2 ","PSI","PS"
+id,name,code,order,type_code,measurement_usage,singular_name,kind_of_quantity,print,cs,ci,M,definition_value,definition_unit,IMS_name,IMS_code
+2,Cubic Meters,cm,20,vscu,Storage Capacity,cubic meter,volume,m3,m3,m3,,1,,cubic meter,m3
+2,Feet,ft,20,vbt,Beam,foot,length,ft,[ft_br],[FT_BR],no,12,[in_br],Feet,ft
+2,Feet,ft,20,vdt,Depth,foot,length,ft,[ft_br],[FT_BR],no,12,[in_br],Feet,ft
+2,Feet,ft,20,vlu,Length,foot,length,ft,[ft_br],[FT_BR],no,12,[in_br],Feet,ft
+2,Gallons,gl,20,fcu,Fuel Capacity,gallon,volume,gal,[gal_br],[GAL_BR],no,4.54609,l,gallons,gl
+1,HorsePower,HP,10,vpu,Power,horsepower,power,hp,[HP],[HP],no,550,[ft_i].[lbf_av]/s,Horsepower,HP
+1,Kilolitres,kl,10,fcu,Fuel Capacity,kilolitre,volume,kl,kl,KL,yes,1 × 10^3,kl,kilolitres,kl
+2,KiloWatt,KW,20,vpu,Power,kilowatt,power,kW,kW,KW,yes,1,J/s,Kilowatts,KW
+1,Meters,m,10,vbt,Beam,meter,length,m,m,M,yes,,,Meters,m
+1,Meters,m,10,vdt,Depth,meter,length,m,m,M,yes,,,Meters,m
+1,Meters,m,10,vlu,Length,meter,length,m,m,M,yes,,,Meters,m
+1,Metric Tonnes,mt,10,vscu,Storage Capacity,tonne ,mass ,t ,t ,TNE ,yes,1 × 103 ,kg,Metric Tonne,mt
+3,PSI,PS,30,vpu,Power,pound per sqare inch,pressure,psi,[psi],[PSI],no,1,[lbf_av]/[in_i]2,PSI,PS
