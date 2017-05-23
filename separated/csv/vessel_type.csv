@@ -8,11 +8,8 @@ ID,Code,Vessel Type,Vessel Sub Type,Standard Abbreviation,IMS_Friendly,Enabled
 7,01.0.6, TRAWLERS, Stern trawlers freezer ,TTF ,,
 8,01.0.7, TRAWLERS, Stern trawlers factory ,TTP ,,
 9,01.0.8, TRAWLERS, Outrigger trawlers ,TU ,,
-<<<<<<< HEAD,,,,,,
 10,01.0.9, TRAWLERS, Trawler nei ,TOX ,,Y
-=======,,,,,,
 10,01.0.9, TRAWLERS, Trawler nei ,TOX ,,
->>>>>>> origin/master,,,,,,
 11,02.0.0, SEINERS, SEINERS,SO ,,
 12,02.0.1, SEINERS, Purse seiners ,SP ,Purse Seiners,Y
 13,02.0.2, SEINERS, North American type ,SPA ,,
