@@ -1,8 +1,5 @@
-"id","entity_type","entity_type_code"
-"1","Private Individual","ME"
-"2","Company","COM"
-"3","Other Private Business","BIZ"
-"4","Industry Associations","NET"
-"5","Non-Governmental Organisation","ORG"
-"6","Government Organisation","GOV"
-"7","Inter-Governmental Organisation","INT"
+id,entity_type,entity_type_code
+1,Individual,ME
+2,Organisation,ORG
+3,Port,POR
+4,Vessel,VES
