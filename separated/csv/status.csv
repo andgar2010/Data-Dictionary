@@ -1,10 +1,8 @@
-"id","Status","Status_Code"
-"1","Pending","PEN"
-"2","Approved","APR"
-"4","Expired","EXP"
-"5","Revoked","REV"
-"6","Reinstated","RIN"
-"7","Rejected","REJ"
-"8","Investigating","INV"
-"9","Blacklisted","BLK"
-"10","Print for Signing","SGN"
+id,Status,Status_Code
+1,Pending,PEN
+2,Approved,APR
+3,Signed,SGN
+4,Rejected,REJ
+5,Revoked,REV
+6,Reinstated,RIN
+7,Closed,CLS
