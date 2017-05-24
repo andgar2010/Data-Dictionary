@@ -1,0 +1,5 @@
+id,authorisation_type,authorisation_type_code
+1,License  ,LIC
+2,Permit,PER
+3,Certificate,CER
+4,Agreement,AGR
