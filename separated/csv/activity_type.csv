@@ -1,0 +1,9 @@
+id,Key,Activity Code,Activity
+1,exp,EXP,Export
+2,frm,FRM,Farm
+3,fsh,FSH,Fish
+4,prt,PRT,Port Usage
+5,prc,PRC,Process
+6,rsh,RSH,Research
+7,trn,TRN,Transhipment
+8,unl,UNL,Unload

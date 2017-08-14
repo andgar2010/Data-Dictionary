@@ -1,5 +1,6 @@
-id,authorisation_type,authorisation_type_code
-1,License  ,LIC
-2,Permit,PER
-3,Certificate,CER
-4,Agreement,AGR
+id,authorisation_type,authorisation_type_code,description
+1,License  ,LIC,"License is a privilege given to you by a governing authority, i.e. drivers license, pilot’s license, Private Detective License. You typically demonstrate you have the skills, either through written, verbal or physical tests, and then you are given a license to demonstrate you have been vetted. If you abuse the privilege, then your license can be revoked."
+2,Permit,PER,"Permits are instruments, that give authorization or consent to do something. You request a permit to build a house. You require permits to use a public park for a wedding."
+3,Certificate,CER,"Certification is generally a confirmation of certain characteristics of a person, place or organization. You are certified to teach 4th grade based on some requirements that you have completed. ISO 9000 certifies your manufacturing company because you complied with their requirements. You are given a certificate of graduation because you completed all the requirements for a particular major."
+4,Agreement,AGR,Access Agreements are formal arrangements between two or more parties to establish official partnerships to cooperatively work together on agreed upon objectives
+5,Registration,REG,"Registration is typically a rendering of information to a government or public or private institution for the purposes of record, regulation, or both. You register your car with the CA DMV. You register for an event, so that you can participate and be recognized. You register your bicycle with a biking organization so if it is stolen, you might be able to keep track of it."
