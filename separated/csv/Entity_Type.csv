@@ -1,5 +1,9 @@
 id,entity_type,entity_type_code
-1,Individual,ME
+1,Person,ME
 2,Organisation,ORG
 3,Port,POR
 4,Vessel,VES
+5,Place,LOC
+6,Mobile Transciever Unit,MTU
+7,Sensor,IOT
+8,Fish Aggregating Device,FAD
